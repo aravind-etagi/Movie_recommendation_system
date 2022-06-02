@@ -1,14 +1,25 @@
+C:\Users\aravind etagi\Desktop\movie-recommender-system-tmdb-dataset-main>heroku login
+ Â»   Warning: heroku update available from 7.53.0 to 7.60.2.
+heroku: Press any key to open up the browser to login or q to exit:
+Opening browser to https://cli-auth.heroku.com/auth/cli/browser/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+    Error: spawn cmd ENOENT
+    Code: ENOENT
+ Â»   Warning: Cannot open browser.
+Logging in... done
+Logged in as xxxxxxxxxxxxxxxxxxx@gmail.com
+
 C:\Users\aravind etagi\Desktop\movie-recommender-system-tmdb-dataset-main>git init
 Initialized empty Git repository in C:/Users/aravind etagi/Desktop/movie-recommender-system-tmdb-dataset-main/.git/
 
 C:\Users\aravind etagi\Desktop\movie-recommender-system-tmdb-dataset-main>heroku git:remote -a content-bsd-movie-recomender
- »   Warning: heroku update available from 7.53.0 to 7.60.2.
- »   Error: Couldn't find that app.
- »
- »   Error ID: not_found
+ Â»   Warning: heroku update available from 7.53.0 to 7.60.2.
+ Â»   Error: Couldn't find that app.
+ Â»
+ Â»   Error ID: not_found
 
 C:\Users\aravind etagi\Desktop\movie-recommender-system-tmdb-dataset-main>heroku git:remote -a content-bsd-movie-recomender
- »   Warning: heroku update available from 7.53.0 to 7.60.2.
+ Â»   Warning: heroku update available from 7.53.0 to 7.60.2.
 set git remote heroku to https://git.heroku.com/content-bsd-movie-recomender.git
 
 C:\Users\aravind etagi\Desktop\movie-recommender-system-tmdb-dataset-main>git add .
